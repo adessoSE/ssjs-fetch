@@ -1,0 +1,23 @@
+{
+  "name": "ssjs-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adessoSE/ssjs-fetch"
+  },
+  "keywords": [
+    "javascript",
+    "webpack",
+    "salesforce",
+    "sfmc",
+    "ssjs"
+  ],
+  "author": "pdallmer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adessoSE/ssjs-fetch/issues"
+  },
+  "homepage": "https://github.com/adessoSE/ssjs-fetch"
+}
